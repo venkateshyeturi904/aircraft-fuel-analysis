@@ -1,0 +1,6 @@
+train dataset 1 : https://s3.amazonaws.com/fuel-efficiency-modeling/CAX_Train_1.zip
+train dataset 2 : https://s3.amazonaws.com/fuel-efficiency-modeling/CAX_Train_2.zip
+train dataset 3 : https://s3.amazonaws.com/fuel-efficiency-modeling/CAX_Train_3.zip
+train dataset 4 : https://s3.amazonaws.com/fuel-efficiency-modeling/CAX_Train_4.zip
+train dataset 5 : https://s3.amazonaws.com/fuel-efficiency-modeling/CAX_Train_5.zip
+test dataset    : https://s3.amazonaws.com/fuel-efficiency-modeling/CAX_Test.csv.tar.gz
