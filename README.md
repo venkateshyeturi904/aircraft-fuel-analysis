@@ -5,12 +5,12 @@
 This project focuses on analyzing real-time datasets from aircraft sensors to optimize fuel efficiency. By observing various functionalities recorded by sensors every millisecond, we aim to find ways to operate flights with minimal fuel consumption.
 
 ## Datasets Description
-
-- Dataset 1: [Link to Dataset 1]
-- Dataset 2: [Link to Dataset 2]
-- Dataset 3: [Link to Dataset 3]
-- Dataset 4: [Link to Dataset 4]
-- Dataset 5: [Link to Dataset 5]
+- Train dataset 1 : https://s3.amazonaws.com/fuel-efficiency-modeling/CAX_Train_1.zip
+- Train dataset 2 : https://s3.amazonaws.com/fuel-efficiency-modeling/CAX_Train_2.zip
+- Train dataset 3 : https://s3.amazonaws.com/fuel-efficiency-modeling/CAX_Train_3.zip
+- Train dataset 4 : https://s3.amazonaws.com/fuel-efficiency-modeling/CAX_Train_4.zip
+- Train dataset 5 : https://s3.amazonaws.com/fuel-efficiency-modeling/CAX_Train_5.zip
+- Test  dataset&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: https://s3.amazonaws.com/fuel-efficiency-modeling/CAX_Test.csv.tar.gz
 
 ## Exploratory Data Analysis
 
@@ -30,13 +30,12 @@ Our primary goal was to reduce fuel consumption. By using LSTM and the insights 
 
 ## Conclusion
 
-This project represents our efforts to optimize fuel efficiency in real-time aircraft operations. Through extensive data analysis and the application of LSTM, we've made significant strides in understanding the factors affecting fuel consumption and reducing it. By leveraging the insights obtained in this project, we aim to contribute to more eco-friendly and economical air travel.
+This project aims to optimize fuel efficiency in real-time aircraft operations. Through extensive data analysis and the application of LSTM, we've made significant strides in understanding the factors affecting fuel consumption and reducing it. By leveraging the insights obtained in this project, we aim to contribute to more eco-friendly and economical air travel.
 
 Feel free to explore the code and datasets in this repository to dive deeper into our research.
 
-**Author:** [Your Name]
-**Contact:** [Your Email Address]
+**Author:** Yeturi Venkatesh   
+**Contact:** venkateshyeturi904@gmail.com
 
-[License Details]
 
 ---
